@@ -12,7 +12,7 @@ Webhook Sender allows you to send messages with a webhook on a discord server
 
 If you did not create a webhook, you can create one if you have admin permissions by going to Server Settings > Integration > Webhook > New Webhook
 
- If you have a webhook, click on said webhook and click on `Copy Webhook URL`. After that, you are ready to use the program so head to releases and download the latest version of this app.
+ If you have a webhook, click on said webhook and click on `Copy Webhook URL`. After that, you are ready to use the program so head to releases and [download the latest version of this app](https://github.com/Kiwifuit/Webhook-Sender/releases/).
 
  You enter the link of the webhook you copied earlier, write a message for people to see, and then hit Enter
 # Editions of this program or smthn idk
