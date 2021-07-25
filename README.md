@@ -11,10 +11,9 @@ First, you'll need:
 
 If you did not create a webhook, you can create one if you have admin permissions by going to Server Settings > Integration > Webhook > New Webhook
 
-If you have a webhook, click on said webhook and click on `Copy Webhook URL`. After that, you are ready to use the program so head to releases and download the latest version of this app.
-
-You enter the link of the webhook you copied earlier, write a message for people to see, and then hit Enter
-# Editions of this program or something idk
+<!-- ======= -->
+ If you have a webhook, click on said webhook and click on `Copy Webhook URL`. After that, you are ready to use the program so head to releases and [download the latest version of this app](https://github.com/Kiwifuit/Webhook-Sender/releases/).
+<!-- >>>>>>> 83e99105e7089e379a8e793aa0f7c92685e10e35 -->
 
  So, you have noticed that there are multiple releases of the same program, here's what they do
 
